@@ -1,4 +1,10 @@
-language: note_js
-note_js:
-  - :"14.7"
-
+{
+  "language": "node_js",
+  "os": [
+    "windows"
+  ],
+  "dist": "xenial",
+  "node_js": [
+    "14.7"
+  ]
+}
